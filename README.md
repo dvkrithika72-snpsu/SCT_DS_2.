@@ -22,6 +22,9 @@ Bivariate Analysis: Used bar plots to compare survival probabilities, revealing 
 Statistical Analysis: A Correlation Heatmap was generated to mathematically confirm the strong relationship between Fare, Class, and Survival.
 
 Visualization Preview : <img width="844" height="529" alt="output correlation heatmap " src="https://github.com/user-attachments/assets/a05f9aa6-7a9c-4890-9a16-7dceb6cd9707" />
+
+
+
 <img width="1484" height="984" alt="output task 2" src="https://github.com/user-attachments/assets/20abe4c6-ac85-43e2-ab41-2d4c899a62fd" />
 
 
